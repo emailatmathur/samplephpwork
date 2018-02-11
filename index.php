@@ -5,7 +5,7 @@
 <h1>Building First PHP application<h1>
 
 <?php
-echo "Edited by Rajesh Mathur";
+echo "Code require approval";
 ?>
 
 </body>
